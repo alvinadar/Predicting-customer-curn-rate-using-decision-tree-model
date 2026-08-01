@@ -23,7 +23,7 @@
 
 ## About the Project
 
-This project was created to explore the fundamental implementation of the Decision Tree algorithm in Python, bridging the gap between theoretical concepts and practical application.By the practical implementation we are able to understand the step by step implementation of Decision Tree using Sklearn Library.
+To utilize decision tree algorithm to predict the customer curn rate.
 
 <img width="930" height="708" alt="image" src="https://github.com/user-attachments/assets/c41db40a-e967-425f-9adc-c2e713da551b" />
 
@@ -34,6 +34,7 @@ This project was created to explore the fundamental implementation of the Decisi
 * Feature 1: Implementation of label encoder to encode the categorical values.
 * Feature 2: Implementation of decision tree classifier. 
 * Feature 3: Implementation of accuracy score.
+* Feature 4: Identify the factors that affect customer curn rate.
 
 ---
 
